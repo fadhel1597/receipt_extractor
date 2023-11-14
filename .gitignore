@@ -3,3 +3,4 @@ train/uhfhlsw.v1i.yolov8/
 train/logs-2/
 train/yolov8m.pt
 train/yolov8n.pt
+clearml_config.txt
