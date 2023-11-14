@@ -1,0 +1,10 @@
+api { 
+    # Fadhel Haidar's workspace
+    web_server: https://app.clear.ml
+    api_server: https://api.clear.ml
+    files_server: https://files.clear.ml
+    credentials {
+        "access_key" = "PDJF7561UQP9E90T5FQR"
+        "secret_key"  = "t81JsVkOKB0U64nQVOyDccyfWJGILam1w9CeXEoJf1QzDywFKF"
+    }
+}
